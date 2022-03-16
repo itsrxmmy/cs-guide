@@ -1,2 +1,6 @@
 # cs-guide
-A Computer Science Guide.
+
+
+This is a redirection to **[itsrxmmy/computer-science-guide](https://github.com/itsrxmmy/computer-science-guide/)**
+
+
